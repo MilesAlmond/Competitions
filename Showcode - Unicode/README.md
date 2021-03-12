@@ -16,7 +16,7 @@ Each challenge is designed to take around an hour to complete.
 
 ## How do you win?
 
-Your score is calculated by running your code through some hidden tests, giving you a percentage passed. If two coders have the same score, the one with the faster time will appear above in the leaderboard.
+Your score is calculated by running your code through some hidden tests, giving you a percentage of tests passed. If two coders have the same score, the one with the faster time will appear above in the leaderboard.
 
 Each challenge, your team plays against a new team within your league. The top 10 scores from each team for that challenge are combined and the team with the highest score wins!
 
