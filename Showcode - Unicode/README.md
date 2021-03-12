@@ -18,7 +18,7 @@ Each challenge is designed to take around an hour to complete.
 
 There are 15 languages you can complete the challenges in, including R, C++, Javascript, Python etc.
 
-I chose Python for all the challenges in this competition as I wanted to get more exposure and practice using it in a time-sensitive and problem-solving environment.
+I chose **Python** for all the challenges in this competition as I wanted to get more exposure and practice using it in a time-sensitive and problem-solving environment.
 
 ## How do you win?
 
