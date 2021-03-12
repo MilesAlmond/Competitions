@@ -12,7 +12,7 @@ The challenges are once a fortnight, over a period of 6 months, making 13 challe
 
 ## How long do the challenges take?
 
-Each challenge should take around an hour to complete.
+Each challenge is designed to take around an hour to complete.
 
 ## How do you win?
 
