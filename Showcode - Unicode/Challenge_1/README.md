@@ -1,2 +1,2 @@
 
-==highlight==
+<code> <mark> highlight </mark> </code>
