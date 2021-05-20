@@ -23,11 +23,11 @@ My elves tell me they want something like this:
 
 
 
-**var message = "@Santa I've been good this year,**  
-**can I get a PS5 like @Userxyz?";**  
-**GetRecipient(message,1)="Santa";**  
-**GetRecipient(message, 2)="Userxyz";**  
-**GetRecipient(message, 3)="";**
+**var message = "@Santa I've been good this year,  
+can I get a PS5 like @Userxyz?";  
+GetRecipient(message,1)="Santa";  
+GetRecipient(message, 2)="Userxyz";  
+GetRecipient(message, 3)="";**
 
 
 Remember there may be other @ symbols floating around in all the messages, for all sorts of reasons!
