@@ -1,3 +1,5 @@
+# Devvie
+
 #BEGIN_E2E_COMMS#
 
 
@@ -10,9 +12,9 @@ I am Devvie. Over recent units of time I have been tasked with moving my physica
 
 
 
-F - take a step forward
-L - turn 90 degrees to the left
-R - turn 90 degrees to the right
+* F - take a step forward
+* L - turn 90 degrees to the left
+* R - turn 90 degrees to the right
 
 
 An example: "FLF" instructs me to take one step forward, then turn left by 90 degrees, then take one step forward.
@@ -27,8 +29,8 @@ A proposition: I task you with writing a function that returns the number of com
 
 
 
-"RF" must return 3 - I must RRF in order to return to 0,0
-"LFRFRFR" must return 1 - I must F to return to 0,0
+* "RF" must return 3 - I must RRF in order to return to 0,0
+* "LFRFRFR" must return 1 - I must F to return to 0,0
 
 
 An unhandled command: Sometimes my controllers provide me with unhandled parameters, take care to ignore any unwanted noise in the commands.
