@@ -23,10 +23,10 @@ My elves tell me they want something like this:
 
 
 
-**var message = "@Santa I've been good this year,**\n
-**can I get a PS5 like @Userxyz?";**\n
-**GetRecipient(message,1)="Santa";**\n
-**GetRecipient(message, 2)="Userxyz";**\n
+**var message = "@Santa I've been good this year,**  
+**can I get a PS5 like @Userxyz?";**  
+**GetRecipient(message,1)="Santa";**  
+**GetRecipient(message, 2)="Userxyz";**  
 **GetRecipient(message, 3)="";**
 
 
