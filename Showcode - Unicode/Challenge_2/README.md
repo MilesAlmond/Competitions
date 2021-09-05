@@ -38,3 +38,7 @@ An unhandled command: Sometimes my controllers provide me with unhandled paramet
 
 
 #END_E2E_COMMS#
+
+-----
+
+## Final score: 100%
