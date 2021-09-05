@@ -18,3 +18,7 @@ Fragment 2: **^day("An^^ak? $ mil^^ons?!") == "Nabenx? $ zvyyvbaf?!"**
 
 Fragment 3: **^^"+- the_distracted_globe -+") == "+- gur_qvfgenpgrq_ty^^^^^^"**
 
+-----
+
+**Final score: 100%**
+
