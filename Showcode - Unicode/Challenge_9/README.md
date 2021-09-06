@@ -2,4 +2,4 @@ Challenge 9 was called **The Heist**
 
 -----
 
-## Final score: 100%
+## 1st attempt score: 100%
