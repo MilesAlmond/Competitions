@@ -2,4 +2,4 @@ Challenge_6 is called **Strike** and involved the coding of a bowling scoring sy
 
 -----
 
-## Final score: 81%
+## 1st attempt score: 81%
