@@ -39,3 +39,7 @@ I'll make sure you go on the good list for this one.
 
 
 S.C.
+
+-----
+
+## Final score: 40%
