@@ -2,4 +2,4 @@ Challenge 10 was called **Galatea**
 
 -----
 
-## Final score: 44%
+## 1st attempt score: 44%
