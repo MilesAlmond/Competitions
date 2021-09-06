@@ -2,4 +2,4 @@ Challenge 7 was called **Crack the Code** and involved translating encrypted mes
 
 -----
 
-## Final score: 100%
+## 1st attempt score: 100%
