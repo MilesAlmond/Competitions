@@ -42,4 +42,4 @@ S.C.
 
 -----
 
-## Final score: 40%
+## 1st attempt score: 40%
