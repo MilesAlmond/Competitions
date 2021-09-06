@@ -20,5 +20,5 @@ Fragment 3: **^^"+- the_distracted_globe -+") == "+- gur_qvfgenpgrq_ty^^^^^^"**
 
 -----
 
-## Final score: 100%
+## 1st attempt score: 100%
 
