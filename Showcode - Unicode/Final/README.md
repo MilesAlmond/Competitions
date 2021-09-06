@@ -4,4 +4,4 @@ In the end, Bath came 7th out of the 80 universities taking part overall, and 20
 
 -----
 
-## My personal score in the final: 80%
+## My overall score in the final: 80%
