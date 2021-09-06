@@ -19,3 +19,7 @@ tgccaagcgcacggcctcaccccagagcaggtcgtggcaatcgcctccaacattggcgggaaaca
 ggcactcgagactgtccagcgcctgcttcccgtgctgtgccaagcgcacggattaaccccagagc  
 aggtcgtggccattgcctcgaatggagggggcaaacaggcgttggaaaccgtacaacgattgctg  
 ccggtgctgtgccaagcgcacggcttaagagacg**
+
+-----
+
+## Final score: 60%
