@@ -18,4 +18,4 @@ You can assume both the key and token contain only uppercase letters.
 
 -----
 
-## Final score: 47%
+## 1st attempt score: 47%
