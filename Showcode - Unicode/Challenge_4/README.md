@@ -22,4 +22,4 @@ ccggtgctgtgccaagcgcacggcttaagagacg**
 
 -----
 
-## Final score: 60%
+## 1st attempt score: 60%
